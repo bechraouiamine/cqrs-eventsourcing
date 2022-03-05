@@ -1,0 +1,10 @@
+/user-management.iml
+.DS_Store
+.idea/
+user.cmd.api/.mvn/
+user.core/.mvn/
+user.query.api/.mvn/
+
+user.cmd.api/.mvn/wrapper/*
+user.core/.mvn/wrapper/*
+user.query.api/.mvn/wrapper/*
