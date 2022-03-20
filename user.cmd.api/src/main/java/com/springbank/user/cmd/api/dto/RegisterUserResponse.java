@@ -1,5 +1,7 @@
 package com.springbank.user.cmd.api.dto;
 
+import com.springbank.user.core.dto.BaseResponse;
+
 /**
  * Created by aminebechraoui, on 05/03/2022, in com.springbank.user.cmd.api.dto
  */
